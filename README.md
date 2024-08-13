@@ -12,7 +12,9 @@ Faça os testes dos código e sugira modificações e novos algoritmos
 
 # ✒️ Autores
 Desenvolvedor - Trabalho Inicial - Alline Antunes
-Felipe Borges - README.md - Felipe Borges
+
+Felipe Borges - README.md 
+
 Você também pode ver a lista de todos os colaboradores que participaram deste projeto.
 
 # 📰 Estudos
